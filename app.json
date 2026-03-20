@@ -1,5 +1,6 @@
 {
   "expo": {
+    "owner": "fffan",
     "name": "photo-organizer",
     "slug": "photo-organizer",
     "version": "1.0.0",
@@ -7,7 +8,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "photoorganizer",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "ios": {
       "supportsTablet": true
     },
@@ -41,8 +42,7 @@
       ]
     ],
     "experiments": {
-      "typedRoutes": true,
-      "reactCompiler": true
+      "typedRoutes": true
     }
   }
 }
