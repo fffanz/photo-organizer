@@ -8,7 +8,7 @@
     "icon": "./assets/images/icon.png",
     "scheme": "photoorganizer",
     "userInterfaceStyle": "automatic",
-    "newArchEnabled": false,
+    "newArchEnabled": true,
     "runtimeVersion": "1.0.0",
     "ios": {
       "supportsTablet": true,
@@ -17,7 +17,7 @@
     "android": {
       "package": "com.photoorganizer.app",
       "versionCode": 1,
-      "newArchEnabled": false,
+      "newArchEnabled": true,
       "permissions": [
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE",
