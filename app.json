@@ -9,6 +9,7 @@
     "scheme": "photoorganizer",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": false,
+    "runtimeVersion": "1.0.0",
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.photoorganizer.app"
@@ -42,10 +43,7 @@
           "image": "./assets/images/splash-icon.png",
           "imageWidth": 200,
           "resizeMode": "contain",
-          "backgroundColor": "#ffffff",
-          "dark": {
-            "backgroundColor": "#000000"
-          }
+          "backgroundColor": "#ffffff"
         }
       ]
     ],

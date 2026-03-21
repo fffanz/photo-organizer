@@ -3,24 +3,10 @@
     "version": ">= 5.0.0"
   },
   "build": {
-    "preview": {
-      "android": {
-        "buildType": "apk"
-      }
-    },
-    "preview2": {
-      "android": {
-        "buildType": "apk"
-      }
-    },
     "production": {
       "android": {
-        "buildType": "apk",
-        "releaseChannel": "production"
+        "buildType": "apk"
       }
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
