@@ -17,6 +17,7 @@
     "android": {
       "package": "com.photoorganizer.app",
       "versionCode": 1,
+      "newArchEnabled": false,
       "permissions": [
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE",
