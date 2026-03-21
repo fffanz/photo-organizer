@@ -54,9 +54,6 @@
       "eas": {
         "projectId": "3372f4e1-1b67-4967-9125-921c69fb4699"
       }
-    },
-    "cli": {
-      "appVersionSource": "local"
     }
   }
 }
